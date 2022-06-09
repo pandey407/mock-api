@@ -1,7 +1,12 @@
 {
-  "user" :{ "name": "Ashlesh Pandey"
+  "user" :[{"id":1, "name": "Ashlesh Pandey"
     },
-  "vaults" : [
+           {"id":2, "name": "Kevin Brian"
+    },
+           {"id":3, "name": "Ram Prasad"
+    },
+          ]
+  "vault" : [
     {
       "id": 1,
       "type": "Finance",
