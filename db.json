@@ -39,8 +39,36 @@
       "id": 4,
       "uid": 1,
       "type": "Educational",
+      "name": "Coursera",
+      "createdDateTime": "2022-05-12T06:26:23Z"
+  },
+    {
+      "id": 7,
+      "uid": 1,
+      "type": "Gaming",
+      "name": "GTA V",
+      "createdDateTime": "2022-06-08T05:45:48Z"
+  },
+    {
+      "id": 8,
+      "uid": 1,
+      "type": "Educational",
       "name": "Udemy",
       "createdDateTime": "2021-02-12T05:25:08Z"
+  },
+    {
+      "id": 6,
+      "uid": 1,
+      "type": "Social",
+      "name": "Twitter",
+      "createdDateTime": "2022-03-27T08:47:10Z"
+  },
+     {
+      "id": 5,
+      "uid": 1,
+      "type": "Finance",
+      "name": "SBL",
+      "createdDateTime": "2022-03-14T14:45:41Z"
   }
   ]
 }
