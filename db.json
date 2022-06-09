@@ -1,11 +1,18 @@
 {
-  "user" :[{"id":1, "name": "Ashlesh Pandey"
+  "user" : [
+    {
+      "id":1, 
+      "name": "Ashlesh Pandey"
     },
-           {"id":2, "name": "Kevin Brian"
+    {
+      "id":2, 
+      "name": "Kevin Brian"
     },
-           {"id":3, "name": "Ram Prasad"
-    },
-          ],
+    {
+      "id":3, 
+      "name": "Ram Prasad"
+    }
+    ],
   "vault" : [
     {
       "id": 1,
@@ -30,6 +37,6 @@
       "type": "Educational",
       "name": "Udemy",
       "createdDateTime": "2021-02-12T05:25:08Z"
-  },
+  }
   ]
 }
