@@ -16,28 +16,28 @@
   "vault" : [
     {
       "id": 1,
-      "uid: 1,
+      "uid": 1,
       "type": "Finance",
       "name": "Esewa",
       "createdDateTime": "2020-05-08T15:45:41Z"
   },
       {
       "id": 2,
-      "uid: 1,
+      "uid": 1,
       "type": "Social",
       "name": "Facebook",
       "createdDateTime": "2022-02-17T06:40:08Z"
   },
       {
       "id": 3,
-      "uid: 1,
+      "uid": 1,
       "type": "Gaming",
       "name": "Valorant",
       "createdDateTime": "2022-04-25T17:40:08Z"
   },
 {
       "id": 4,
-      "uid: 1,
+      "uid": 1,
       "type": "Educational",
       "name": "Udemy",
       "createdDateTime": "2021-02-12T05:25:08Z"
