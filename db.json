@@ -69,6 +69,27 @@
       "type": "Finance",
       "name": "SBL",
       "createdDateTime": "2022-03-14T14:45:41Z"
+  },
+    {
+      "id": 9,
+      "uid": 1,
+      "type": "Social",
+      "name": "Reddit",
+      "createdDateTime": "2022-06-14T14:45:41Z"
+  },
+      {
+      "id": 10,
+      "uid": 1,
+      "type": "Social",
+      "name": "Linkedin",
+      "createdDateTime": "2022-05-08T14:45:41Z"
+  },
+    {
+      "id": 11,
+      "uid": 1,
+      "type": "Gaming",
+      "name": "PUBG M",
+      "createdDateTime": "2022-05-06T14:45:41Z"
   }
   ]
 }
